@@ -12,6 +12,7 @@
 
     <modules>
         <module>ActionProject</module>
+        <module>RestAssuredProject</module>
     </modules>
 
 
